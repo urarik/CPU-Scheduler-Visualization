@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Scheduler.main">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scheduler_main</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="Scheduler" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="Scheduler_main.jar">
+        <element id="module-output" name="Scheduler.main" />
+      </element>
+    </root>
+  </artifact>
+</component>

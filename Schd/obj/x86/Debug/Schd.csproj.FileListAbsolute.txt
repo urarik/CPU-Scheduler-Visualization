@@ -1,0 +1,24 @@
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\bin\Debug\Schd.pdb
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.exe
+c:\users\snail\documents\visual studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.pdb
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+C:\Users\snail\Documents\Visual Studio 2010\Projects\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.exe
+D:\스케쥴링\Schd\Schd\bin\Debug\Schd.pdb
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csprojResolveAssemblyReference.cache
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+D:\스케쥴링\Schd\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.Cache
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\bin\Debug\Schd.exe
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\bin\Debug\Schd.pdb
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.csprojAssemblyReference.cache
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.Scheduling.resources
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.Properties.Resources.resources
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.csproj.GenerateResource.cache
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.exe
+D:\school\drive\school\운영체제\1. CPU Scheduler\Term Project - Process Scheduler Design sample source code\Schd\obj\x86\Debug\Schd.pdb

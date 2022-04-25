@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Scheduler.main2">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scheduler_main2</output-path>
+    <root id="root">
+      <element id="archive" name="Scheduler_main.jar">
+        <element id="module-output" name="Scheduler.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: javax.json:javax.json-api:1.1.2" />
+      <element id="library" level="project" name="Gradle: junit:junit:4.12" />
+      <element id="library" level="project" name="Gradle: no.tornado:tornadofx:1.7.20" />
+      <element id="library" level="project" name="Gradle: org.glassfish:javax.json:1.1.2" />
+      <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.3" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-reflect:1.3.61" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.72" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.61" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.3.61" />
+      <element id="library" level="project" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.72" />
+      <element id="library" level="project" name="Gradle: org.jetbrains:annotations:13.0" />
+    </root>
+  </artifact>
+</component>
